@@ -8,7 +8,7 @@ WIDTH, HEIGHT = 800, 600
 screen = turtle.Screen()
 screen.setup(WIDTH, HEIGHT)
 screen.bgcolor("black")  
-screen.title("University Engineering Project: Production-Ready Asteroids Engine")
+screen.title("Space Drift")
 screen.colormode(255)  
 screen.tracer(0)      
 
