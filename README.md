@@ -23,10 +23,19 @@ Built as a university computer science project to demonstrate clean object-orien
 * **Spacebar** – Shoot Lasers (Max 4 projectiles on screen at once)
 * **R Key** – Restart Game (Only works after you crash!)
 
- प्रत्येक kill gives a flat **10 points**.
+ Per kill gives a flat **10 points**.
 
 ---
 
+
+## Screeshots
+<img width="799" height="592" alt="Screenshot 2026-05-26 194629" src="https://github.com/user-attachments/assets/5954eb6a-5ee4-44c3-a688-e40563e6b045" />
+
+---
+
+<img width="796" height="597" alt="Screenshot 2026-05-26 195029" src="https://github.com/user-attachments/assets/3bcd243d-b2d0-4121-a9bf-987a71e5fe14" />
+
+---
 ## 🚀 Running the Game
 
 No extra libraries or installations required. Just make sure you have Python 3 installed, clone the repo, and run the file:
